@@ -10,3 +10,9 @@ def get_food():
     print(f"Ah {food} är riktigt gott!")
 
 get_food()
+
+def get_drink():
+    drink = input("Vad är din favoritdrink ")
+    print(f"Ah {drink} är riktigt gott!")
+
+get_drink()
