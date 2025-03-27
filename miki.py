@@ -8,3 +8,5 @@ get_age()
 def get_food():
     food = input("Vad är din favoritmat ")
     print(f"Ah {food} är riktigt gott!")
+
+get_food()
